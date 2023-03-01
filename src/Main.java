@@ -1,49 +1,9 @@
-public class Main {
+public class Main extends PracticaJava{
     public static void main(String[] args) {
+    sumar(5,5.1);
 
-       /* 1-A)
-        int numeroInicio = 4;
-        int numeroFin = 13;
 
-        while(numeroInicio<=numeroFin ) {
-            numeroInicio ++;
-            System.out.println(numeroInicio);
-        }*/
 
-        /* 1-B)
-        int numeroInicio = 5;
-        int numeroFin = 14;
-        int numeroAux = numeroInicio;
-        while (numeroAux <= numeroFin) {
-            if (numeroAux % 2 == 0) {
-                System.out.println(numeroAux);
-            }
-            numeroAux++;
-        }*/
-
-        /* 1-C)
-        int numeroInicio = 5;
-        int numeroFin = 14;
-        int contador = numeroInicio;
-
-        while (contador <= numeroFin) {
-            if (contador % 2 == 0) {
-                System.out.println(contador + "ES PAR");
-            }
-            else {
-                System.out.println(contador + "ES IMPAR");
-            }
-            contador++;
-        }*/
-
-//   for(tipo nombre variable valor de la variable; condicional para que termine el ciclo; ){}
-
-        /* 1-D)
-        for(int numeroInicio= 14; numeroInicio>=5; numeroInicio-- ) {
-            if (numeroInicio % 2 == 0) {
-                System.out.println(numeroInicio);
-            }
-        }*/
 
     }
 }
