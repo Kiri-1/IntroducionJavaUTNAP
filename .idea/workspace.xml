@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7b275a4-0739-40be-8196-8a2eedef6c3f" name="Changes" comment="Ejercicios clase1">
-      <change afterPath="$PROJECT_DIR$/src/EjClase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjClase3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticaJava.java" afterDir="false" />
+    <list default="true" id="b7b275a4-0739-40be-8196-8a2eedef6c3f" name="Changes" comment="Ejercicios clase1 terminados, practico java de ejercicios de utn, comienza clase3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,7 @@
       <workItem from="1677269982019" duration="8843000" />
       <workItem from="1677503562733" duration="5974000" />
       <workItem from="1677620985792" duration="5692000" />
-      <workItem from="1677676258072" duration="873000" />
+      <workItem from="1677676258072" duration="2463000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1677270546845</created>
@@ -82,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677280934813</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicios clase1 terminados, practico java de ejercicios de utn, comienza clase3">
+      <created>1677678313384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677678313385</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="Ejercicios clase1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios clase1" />
+    <MESSAGE value="Ejercicios clase1 terminados, practico java de ejercicios de utn, comienza clase3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios clase1 terminados, practico java de ejercicios de utn, comienza clase3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
