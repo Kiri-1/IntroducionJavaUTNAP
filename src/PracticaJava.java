@@ -4,7 +4,7 @@ public class PracticaJava {
         double resultado=num1+num2;
         double resultado1=num1*num2;
         System.out.println(resultado+" "+resultado1);
-
-
     }
+
+
 }
