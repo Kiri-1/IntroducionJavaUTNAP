@@ -4,14 +4,17 @@ public class Main extends PracticaJava {
 
         //verdadero es que si, falso que no.
 
-        Tamagotchi belen = new Tamagotchi(80, 0, true, true, true);
+        Tamagotchi belen = new Tamagotchi(82, 0, false, true, false);
+        System.out.println(belen.puedeJugar());
         belen.comer();
-        belen.jugar();
-        belen.mostrarEstado();
 
-        Tamagotchi nico = new Tamagotchi(0, 0, false, false, false);
-        nico.comer();
-        nico.jugar();
-        nico.mostrarEstado();
+
+
+//        Tamagotchi nico = new Tamagotchi(0, 0, false, false, false);
+//        nico.comer();
+//        nico.jugar();
+//        nico.mostrarEstado();
+
+
     }
 }

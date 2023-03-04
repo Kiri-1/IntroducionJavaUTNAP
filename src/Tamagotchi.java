@@ -65,34 +65,43 @@ public class Tamagotchi {
 
     //metodo comer
     public void comer() {
-        if (this.hambre) {
+        if (this.hambre && !this.aburrida) {
             this.contenta = true;
             this.hambre = false;
             ++this.nivel;
+            mostrarEstado();
+
         } else {
             if (this.aburrida && this.tiempo > 80) {
                 this.contenta = true;
-            } else {
-                if (this.aburrida && this.tiempo <= 80) {
-                    mostrarEstado();
-                } else {
-                    this.contenta = false;
-                    System.out.println("No esta contenta, tiene hambre :(");
-                }
-            }
-        }
-    }
-
-        //metodo jugar
-        public void jugar () {
-            if (this.hambre = false) {
-                this.contenta = true;
-                System.out.println("Esta contenta :)");
-                this.nivel = this.nivel + 2;
-                this.aburrida = this.contenta;
                 mostrarEstado();
-
+            } else {
+                mostrarEstado();
             }
         }
     }
+
+    //metodo jugar
+    public void jugar() {
+        if (this.aburrida || this.contenta && !this.hambre) {
+            this.contenta = true;
+            System.out.println("Esta contenta :)");
+            this.nivel = this.nivel + 2;
+            this.aburrida = this.contenta;
+            mostrarEstado();
+        } else {
+            System.out.println("Tiene hambre, no pasa nada si juega");
+        }
+    }
+
+    //    Una mascota puede jugar si está contenta o aburrida, si está hambrienta no.
+    public boolean puedeJugar() {
+        if (this.contenta || this.aburrida ){
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+}
 
