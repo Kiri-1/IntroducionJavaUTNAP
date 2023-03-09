@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7b275a4-0739-40be-8196-8a2eedef6c3f" name="Changes" comment="Creando un tamagochi, metodo comer">
+    <list default="true" id="b7b275a4-0739-40be-8196-8a2eedef6c3f" name="Changes" comment="Haciendo practica guia clase 3, ej 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EjClase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjClase3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticaJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticaJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,11 @@
       <workItem from="1677724159387" duration="113000" />
       <workItem from="1677724407401" duration="34000" />
       <workItem from="1677866141318" duration="10502000" />
-      <workItem from="1677954399335" duration="16429000" />
+      <workItem from="1677954399335" duration="16948000" />
+      <workItem from="1678042084195" duration="959000" />
+      <workItem from="1678237234485" duration="343000" />
+      <workItem from="1678240382159" duration="1351000" />
+      <workItem from="1678307265047" duration="5788000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1677270546845</created>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677959831698</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Haciendo practica guia clase 3, ej 1">
+      <created>1677974239992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677974239992</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +135,8 @@
     <MESSAGE value="Ejercicios clase1 terminados, practico java de ejercicios de utn, comienza clase3" />
     <MESSAGE value="Creando un tamagochi, constructor, getter y setter, metodo comer" />
     <MESSAGE value="Creando un tamagochi, metodo comer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando un tamagochi, metodo comer" />
+    <MESSAGE value="Haciendo practica guia clase 3, ej 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Haciendo practica guia clase 3, ej 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
