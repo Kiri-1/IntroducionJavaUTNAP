@@ -11,7 +11,7 @@ public class Main {
 ////int vectorSum[] = new int[]{2, 4, 8, 4, 2, 3, 6};
 ////System.out.println(EjClase3.sumarNumOrd(vectorSum, 4));
 
-EjClase3.codificar("belen jesus");
+////EjClase3.codificar("belen jesus");
 
 //verdadero es que si, falso que no.
 ////        Tamagotchi belen = new Tamagotchi(82, 0, false, true, false);
